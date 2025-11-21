@@ -1,0 +1,19 @@
+:root {
+  /* Brand Colors */
+  --primary-green: #1E5128;
+  --secondary-green: #4E9F3D;
+  --accent-green: #D8E9A8;
+  --bg-mint: #C4E3CB;
+  
+  /* Functional Colors */
+  --white: #FFFFFF;
+  --text-dark: #191A19;
+  --text-gray: #666666;
+  --error-red: #D32F2F;
+  --success-green: #2E7D32;
+  --warning-yellow: #FFEB3B;
+
+  /* Spacing & Layout */
+  --radius-md: 16px;
+  --radius-sm: 8px;
+}
